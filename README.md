@@ -41,3 +41,7 @@ ORA-01113: file x needs media recovery
 8. Use the 'pscn' function (Log in as an administrator) to push the scn number in the database memory, such as ora-600[2662].
 
 <img width="1079" alt="8cb32cd284b49715fee26248938ace0" src="https://github.com/user-attachments/assets/29792106-8696-49dc-ab35-81c62fbed3b4" />
+
+
+If interested in database technology can add contacts to share knowledge！！！
+(wx:wufachuji666 qq:565929593 tel:+8618883846732)
