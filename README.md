@@ -1,6 +1,6 @@
 Oracle Recover Command Line Tool (OCL)
 
-It has only been tested on Windows and linux in 11.2.0.4 and includes the following features:
+It has only been tested on Windows and Linux in 11.2.0.4 and includes the following features:
 
 ![image](https://github.com/user-attachments/assets/00d684ef-bee6-4e08-9b5e-1899af0c4484)
 
