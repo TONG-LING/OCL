@@ -1,1 +1,0 @@
-pyinstaller -F main.py -i C:\Users\56592\Desktop\ocl-py\dist\ocl.ico --name=OCL.exe  --clean
