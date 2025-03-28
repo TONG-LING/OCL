@@ -1,0 +1,3 @@
+D:/ocl-py/promote-scn/cmake-build-debug/CMakeFiles/promote_scn.dir
+D:/ocl-py/promote-scn/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ocl-py/promote-scn/cmake-build-debug/CMakeFiles/rebuild_cache.dir

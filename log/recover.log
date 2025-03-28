@@ -1,0 +1,1519 @@
+2025-03-16 00:11:13,662 - INFO - Recover script initialized.
+2025-03-16 00:20:17,455 - INFO - Link module to complete.
+2025-03-16 00:20:17,463 - INFO - Recover script initialized.
+2025-03-16 00:21:02,966 - INFO - Link module to complete.
+2025-03-16 00:21:02,969 - INFO - Recover script initialized.
+2025-03-16 00:21:02,969 - INFO - Command line tool initialization.
+2025-03-16 03:34:09,076 - INFO - Link module to complete.
+2025-03-16 03:34:09,084 - INFO - Recover script initialized.
+2025-03-16 03:34:09,084 - INFO - Command line tool initialization.
+2025-03-16 03:53:11,221 - INFO - Link module to complete.
+2025-03-16 03:53:11,230 - INFO - Recover script initialized.
+2025-03-16 03:53:11,230 - INFO - Command line tool initialization.
+2025-03-16 04:33:23,708 - INFO - Link module to complete.
+2025-03-16 04:33:23,716 - INFO - Recover script initialized.
+2025-03-16 04:33:23,716 - INFO - Command line tool initialization.
+2025-03-16 04:33:40,995 - INFO - Link module to complete.
+2025-03-16 04:33:41,003 - INFO - Recover script initialized.
+2025-03-16 04:33:41,003 - INFO - Command line tool initialization.
+2025-03-16 04:34:13,716 - INFO - Link module to complete.
+2025-03-16 04:34:13,720 - INFO - Recover script initialized.
+2025-03-16 04:34:13,720 - INFO - Command line tool initialization.
+2025-03-16 04:36:29,905 - INFO - Link module to complete.
+2025-03-16 04:36:29,917 - INFO - Recover script initialized.
+2025-03-16 04:36:29,917 - INFO - Command line tool initialization.
+2025-03-16 04:36:46,119 - INFO - Link module to complete.
+2025-03-16 04:36:46,120 - INFO - Recover script initialized.
+2025-03-16 04:36:46,120 - INFO - Command line tool initialization.
+2025-03-16 04:38:58,481 - INFO - Link module to complete.
+2025-03-16 04:38:58,485 - INFO - Recover script initialized.
+2025-03-16 04:38:58,485 - INFO - Command line tool initialization.
+2025-03-16 05:45:50,953 - INFO - Link module to complete.
+2025-03-16 05:45:50,964 - INFO - Recover script initialized.
+2025-03-16 05:45:50,964 - INFO - Command line tool initialization.
+2025-03-16 05:48:33,975 - INFO - Backup created: initial_backups/system01bak.dbf
+2025-03-16 05:48:33,975 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-16 05:48:33,975 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-16 05:48:33,975 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-16 05:48:33,975 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: 68bd1200, New Value: abca1200
+2025-03-16 05:48:33,976 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-16 05:48:33,976 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-16 05:48:33,976 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-16 05:48:33,976 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-16 05:48:33,976 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-16 05:48:33,976 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: ca000000, Old Value: b9000000, New Value: ca000000
+2025-03-16 05:48:33,976 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-16 05:48:33,976 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: b8000000, New Value: c9000000
+2025-03-16 05:48:33,976 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-16 05:48:33,976 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-16 05:48:33,976 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-16 05:48:33,976 - INFO - Recover operation completed.
+2025-03-16 05:48:33,976 - INFO - Updated db_files after recovery.
+2025-03-17 01:40:22,757 - INFO - Link module to complete.
+2025-03-17 02:09:39,916 - INFO - Link module to complete.
+2025-03-17 02:09:39,944 - INFO - Recover script initialized.
+2025-03-17 02:09:39,944 - INFO - Command line tool initialization.
+2025-03-17 02:44:10,886 - INFO - Link module to complete.
+2025-03-17 02:44:10,898 - INFO - Recover script initialized.
+2025-03-17 02:44:10,898 - INFO - Command line tool initialization.
+2025-03-17 02:55:25,160 - INFO - Link module to complete.
+2025-03-17 02:55:25,169 - INFO - Recover script initialized.
+2025-03-17 02:55:25,169 - INFO - Command line tool initialization.
+2025-03-17 02:55:43,037 - INFO - Backup created: initial_backups/sysaux01bak.dbf
+2025-03-17 02:55:43,037 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 02:55:43,037 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 02:55:43,038 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 02:55:43,039 - INFO - Checksum 0x143d written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 02:55:43,039 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 02:55:43,039 - INFO - Checksum 0x143d written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 02:55:43,039 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 02:55:43,039 - INFO - Checksum 0x143d written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 02:55:43,039 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 02:55:43,039 - INFO - Checksum 0x143d written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 02:55:43,039 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: cc000000, Old Value: ca000000, New Value: cc000000
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 02:55:43,039 - INFO - Checksum 0x143b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 02:55:43,039 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 02:55:43,039 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 02:55:43,040 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 02:55:43,040 - INFO - Checksum 0x143b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 02:55:43,040 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 02:55:43,040 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 02:55:43,040 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 02:55:43,040 - INFO - Checksum 0x143b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 02:55:43,040 - INFO - Recover operation completed.
+2025-03-17 02:55:43,040 - INFO - Updated db_files after recovery.
+2025-03-17 04:18:37,622 - INFO - Link module to complete.
+2025-03-17 04:18:37,649 - INFO - Recover script initialized.
+2025-03-17 04:18:37,649 - INFO - Command line tool initialization.
+2025-03-17 04:18:54,896 - INFO - Backup created: initial_backups/users01bak.dbf
+2025-03-17 04:18:54,896 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 04:18:54,898 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 04:18:54,899 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 04:18:54,899 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 04:18:54,899 - INFO - Checksum 0x143b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 04:18:54,899 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 04:18:54,899 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 04:18:54,899 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 04:18:54,899 - INFO - Checksum 0x143b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 04:18:54,899 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 04:18:54,899 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 04:18:54,899 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 04:18:54,899 - INFO - Checksum 0x143b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 04:18:54,899 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 04:18:54,899 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 04:18:54,899 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 04:18:54,900 - INFO - Checksum 0x143b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 04:18:54,900 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: cd000000, Old Value: cc000000, New Value: cd000000
+2025-03-17 04:18:54,900 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 04:18:54,900 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 04:18:54,900 - INFO - Checksum 0x143a written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 04:18:54,900 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 04:18:54,900 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 04:18:54,900 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 04:18:54,900 - INFO - Checksum 0x143a written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 04:18:54,900 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 04:18:54,900 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 04:18:54,900 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 04:18:54,900 - INFO - Checksum 0x143a written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 04:18:54,900 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 16060000, New Value: 67060000
+2025-03-17 04:18:54,900 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 04:18:54,900 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 04:18:54,900 - INFO - Checksum 0x144b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 04:18:54,900 - INFO - Recover operation completed.
+2025-03-17 04:18:54,900 - INFO - Updated db_files after recovery.
+2025-03-17 05:08:07,469 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/users01.dbf, skipping backup.
+2025-03-17 05:08:07,469 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 05:08:07,469 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 05:08:07,472 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 05:08:07,473 - INFO - Checksum 0x143f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 05:08:07,473 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 05:08:07,473 - INFO - Checksum 0x143f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 05:08:07,473 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 05:08:07,473 - INFO - Checksum 0x143f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 05:08:07,473 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 05:08:07,473 - INFO - Checksum 0x143f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 05:08:07,473 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d0000000, Old Value: cd000000, New Value: d0000000
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 05:08:07,473 - INFO - Checksum 0x1422 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 05:08:07,473 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: cc000000, New Value: c9000000
+2025-03-17 05:08:07,473 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 05:08:07,474 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 05:08:07,474 - INFO - Checksum 0x1427 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 05:08:07,474 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 05:08:07,474 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 05:08:07,474 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 05:08:07,474 - INFO - Checksum 0x1427 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 05:08:07,474 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 16060000, New Value: 67060000
+2025-03-17 05:08:07,474 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 05:08:07,474 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 05:08:07,474 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 05:08:07,474 - INFO - Recover operation completed.
+2025-03-17 05:08:07,480 - INFO - Updated db_files after recovery.
+2025-03-17 06:41:26,913 - INFO - Link module to complete.
+2025-03-17 06:41:26,932 - INFO - Recover script initialized.
+2025-03-17 06:41:26,932 - INFO - Command line tool initialization.
+2025-03-17 06:42:25,904 - ERROR - Invalid recover command. Please use 'all', 'datafile N', or 'rollback'.
+2025-03-17 06:42:34,801 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 06:42:34,802 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:42:34,802 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:42:34,804 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:42:34,806 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:42:34,806 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:43:08,425 - INFO - Link module to complete.
+2025-03-17 06:43:08,443 - INFO - Recover script initialized.
+2025-03-17 06:43:08,443 - INFO - Command line tool initialization.
+2025-03-17 06:43:27,793 - ERROR - Invalid recover command. Please use 'all', 'datafile N', or 'rollback'.
+2025-03-17 06:43:36,802 - INFO - Backup created: initial_backups/undotbs01bak.dbf
+2025-03-17 06:43:36,802 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:43:36,802 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:43:36,802 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:43:36,803 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:43:36,803 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:43:59,748 - INFO - Link module to complete.
+2025-03-17 06:43:59,757 - INFO - Recover script initialized.
+2025-03-17 06:43:59,757 - INFO - Command line tool initialization.
+2025-03-17 06:44:12,380 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/undotbs01.dbf, skipping backup.
+2025-03-17 06:44:12,382 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:44:12,382 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:44:12,382 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:44:12,382 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:44:12,382 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:45:35,284 - INFO - Link module to complete.
+2025-03-17 06:45:35,290 - INFO - Recover script initialized.
+2025-03-17 06:45:35,290 - INFO - Command line tool initialization.
+2025-03-17 06:45:51,816 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 06:45:51,816 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:45:51,816 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:45:51,816 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:45:51,817 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:45:51,817 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:46:49,536 - INFO - Link module to complete.
+2025-03-17 06:46:49,544 - INFO - Recover script initialized.
+2025-03-17 06:46:49,544 - INFO - Command line tool initialization.
+2025-03-17 06:47:21,703 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 06:47:21,712 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:47:21,712 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:47:21,712 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:47:21,713 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:47:21,713 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:51:00,045 - INFO - Link module to complete.
+2025-03-17 06:51:00,060 - INFO - Recover script initialized.
+2025-03-17 06:51:00,060 - INFO - Command line tool initialization.
+2025-03-17 06:51:16,511 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 06:51:16,512 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:51:16,512 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:51:16,513 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:51:16,513 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:51:16,513 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:52:07,097 - INFO - Link module to complete.
+2025-03-17 06:52:07,102 - INFO - Recover script initialized.
+2025-03-17 06:52:07,102 - INFO - Command line tool initialization.
+2025-03-17 06:52:27,130 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/system01.dbf, skipping backup.
+2025-03-17 06:52:27,132 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:52:27,132 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:52:27,132 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:52:27,132 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:52:27,132 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:53:20,630 - INFO - Link module to complete.
+2025-03-17 06:53:20,636 - INFO - Recover script initialized.
+2025-03-17 06:53:20,636 - INFO - Command line tool initialization.
+2025-03-17 06:53:35,619 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/system01.dbf, skipping backup.
+2025-03-17 06:53:35,622 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:53:35,622 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:53:35,622 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:53:35,622 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:53:35,622 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:55:48,268 - INFO - Link module to complete.
+2025-03-17 06:55:48,274 - INFO - Recover script initialized.
+2025-03-17 06:55:48,274 - INFO - Command line tool initialization.
+2025-03-17 06:56:03,515 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/system01.dbf, skipping backup.
+2025-03-17 06:56:03,515 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 06:56:03,515 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 06:56:03,515 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 06:56:03,515 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:56:03,515 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:56:03,515 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 06:56:03,515 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 06:56:03,515 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 06:56:03,515 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:56:03,515 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:56:03,517 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 06:56:03,517 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 06:56:03,517 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 06:56:03,517 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:56:03,517 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:56:03,517 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 06:56:03,517 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 06:56:03,517 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:56:03,518 - INFO - Checksum 0x1456 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:56:03,518 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 06:56:03,518 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d0000000, New Value: d2000000
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:56:03,518 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:56:03,518 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 06:56:03,518 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:56:03,518 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:56:03,518 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 06:56:03,518 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:56:03,518 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:56:03,518 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 06:56:03,518 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 06:56:03,518 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 06:56:03,518 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 06:56:03,518 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 06:56:03,518 - INFO - Recover operation completed.
+2025-03-17 06:56:03,518 - INFO - Updated db_files after recovery.
+2025-03-17 06:59:55,126 - INFO - Link module to complete.
+2025-03-17 06:59:55,139 - INFO - Recover script initialized.
+2025-03-17 06:59:55,139 - INFO - Command line tool initialization.
+2025-03-17 07:00:13,149 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/undotbs01.dbf, skipping backup.
+2025-03-17 07:00:13,153 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:00:13,153 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:00:13,155 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:00:13,156 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:00:13,156 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:00:13,156 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:00:13,156 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:00:13,156 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:00:13,156 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:00:13,156 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:00:13,156 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:00:13,156 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:00:13,156 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:00:13,157 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:00:13,157 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:00:13,157 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:00:13,157 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:00:13,157 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:00:13,157 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:00:13,157 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:00:13,157 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:00:13,157 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:00:13,157 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:00:13,157 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:00:13,157 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:00:13,157 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:00:13,157 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:00:13,157 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:00:13,157 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:00:13,157 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:00:13,157 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:00:13,157 - INFO - Recover operation completed.
+2025-03-17 07:00:13,158 - INFO - Updated db_files after recovery.
+2025-03-17 07:02:10,322 - INFO - Link module to complete.
+2025-03-17 07:02:10,338 - INFO - Recover script initialized.
+2025-03-17 07:02:10,338 - INFO - Command line tool initialization.
+2025-03-17 07:02:27,002 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/undotbs01.dbf, skipping backup.
+2025-03-17 07:02:27,005 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:02:27,005 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:02:27,005 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:02:27,006 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:02:27,006 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:02:27,006 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:02:27,006 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:02:27,006 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:02:27,006 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:02:27,006 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:02:27,006 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:02:27,006 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:02:27,006 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:02:27,007 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:02:27,007 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:02:27,007 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:02:27,007 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:02:27,007 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:02:27,007 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:02:27,007 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:02:27,007 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:02:27,007 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:02:27,007 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:02:27,007 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:02:27,007 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:02:27,007 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:02:27,007 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:02:27,007 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:02:27,007 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:02:27,007 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:02:27,007 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:02:27,007 - INFO - Recover operation completed.
+2025-03-17 07:02:27,008 - INFO - Updated db_files after recovery.
+2025-03-17 07:03:13,572 - INFO - Link module to complete.
+2025-03-17 07:03:24,561 - INFO - Link module to complete.
+2025-03-17 07:03:24,575 - INFO - Recover script initialized.
+2025-03-17 07:03:24,575 - INFO - Command line tool initialization.
+2025-03-17 07:03:39,275 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 07:03:39,278 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:03:39,278 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:03:39,278 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:03:39,279 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:03:39,279 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:03:39,279 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:03:39,279 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:03:39,279 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:03:39,279 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:03:39,279 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:03:39,279 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:03:39,279 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:03:39,279 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:03:39,279 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:03:39,279 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:03:39,279 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:03:39,279 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:03:39,279 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:03:39,279 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:03:39,280 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:03:39,280 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:03:39,280 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:03:39,280 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:03:39,280 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:03:39,280 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:03:39,280 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:03:39,280 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:03:39,280 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:03:39,280 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:03:39,280 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:03:39,280 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:03:39,280 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:03:39,280 - INFO - Recover operation completed.
+2025-03-17 07:03:39,280 - INFO - Updated db_files after recovery.
+2025-03-17 07:16:42,205 - INFO - Link module to complete.
+2025-03-17 07:16:42,214 - INFO - Recover script initialized.
+2025-03-17 07:16:42,214 - INFO - Command line tool initialization.
+2025-03-17 07:17:04,263 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 07:17:04,269 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:17:04,269 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:17:04,269 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:17:04,270 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:17:04,270 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:18,778 - INFO - Link module to complete.
+2025-03-17 07:18:18,786 - INFO - Recover script initialized.
+2025-03-17 07:18:18,786 - INFO - Command line tool initialization.
+2025-03-17 07:18:34,242 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/undotbs01.dbf, skipping backup.
+2025-03-17 07:18:34,251 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:18:34,251 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:18:34,251 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:18:34,252 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:18:34,252 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:34,252 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:18:34,252 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:18:34,252 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:18:34,252 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:18:34,252 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:34,252 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:18:34,252 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:18:34,252 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:18:34,252 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:18:34,252 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:34,252 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:18:34,252 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:18:34,252 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:18:34,252 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:18:34,252 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:34,252 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:18:34,252 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:18:34,252 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:18:34,253 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:18:34,253 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:34,253 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:18:34,253 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:18:34,253 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:18:34,253 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:18:34,253 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:34,253 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:18:34,253 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:18:34,253 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:18:34,253 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:18:34,253 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:34,253 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:18:34,253 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:18:34,253 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:18:34,253 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:18:34,253 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:18:34,253 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:18:34,253 - INFO - Recover operation completed.
+2025-03-17 07:18:34,253 - INFO - Updated db_files after recovery.
+2025-03-17 07:19:04,756 - INFO - Link module to complete.
+2025-03-17 07:19:04,765 - INFO - Recover script initialized.
+2025-03-17 07:19:04,765 - INFO - Command line tool initialization.
+2025-03-17 07:19:18,280 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/system01.dbf, skipping backup.
+2025-03-17 07:19:18,282 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:19:18,282 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:19:18,282 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:19:18,282 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:19:18,282 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:19:18,282 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:19:18,282 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:19:18,282 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:19:18,282 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:19:18,282 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:19:18,282 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:19:18,282 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:19:18,282 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:19:18,282 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:19:18,282 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:19:18,283 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:19:18,283 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:19:18,283 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:19:18,283 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:19:18,283 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:19:18,283 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:19:18,283 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:19:18,283 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:19:18,283 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:19:18,283 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:19:18,283 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:19:18,283 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:19:18,283 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:19:18,283 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:19:18,283 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:19:18,283 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:19:18,283 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:19:18,283 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:19:18,283 - INFO - Recover operation completed.
+2025-03-17 07:19:18,283 - INFO - Updated db_files after recovery.
+2025-03-17 07:19:59,794 - INFO - Link module to complete.
+2025-03-17 07:19:59,807 - INFO - Recover script initialized.
+2025-03-17 07:19:59,807 - INFO - Command line tool initialization.
+2025-03-17 07:20:13,751 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/system01.dbf, skipping backup.
+2025-03-17 07:20:13,752 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:20:13,752 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:20:13,753 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:20:13,753 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:20:13,753 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:20:13,753 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:20:13,753 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:20:13,753 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:20:13,753 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:20:13,753 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:20:13,753 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:20:13,753 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:20:13,753 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:20:13,753 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:20:13,753 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:20:13,753 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:20:13,753 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:20:13,753 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:20:13,754 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:20:13,754 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:20:13,754 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:20:13,754 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:20:13,754 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:20:13,754 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:20:13,754 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:20:13,754 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:20:13,754 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:20:13,754 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:20:13,754 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:20:13,754 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:20:13,754 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:20:13,754 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:20:13,754 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:20:13,754 - INFO - Recover operation completed.
+2025-03-17 07:20:13,754 - INFO - Updated db_files after recovery.
+2025-03-17 07:21:04,743 - INFO - Link module to complete.
+2025-03-17 07:21:04,750 - INFO - Recover script initialized.
+2025-03-17 07:21:04,750 - INFO - Command line tool initialization.
+2025-03-17 07:21:23,160 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/users01.dbf, skipping backup.
+2025-03-17 07:21:23,162 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:21:23,162 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:21:23,162 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:21:23,163 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:23,163 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:23,163 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:23,163 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:21:23,163 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:23,164 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:23,164 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:23,164 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:23,164 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:23,164 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:23,164 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:23,164 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:23,164 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:23,164 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:23,164 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:23,164 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:23,164 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:21:23,164 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:23,164 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:23,165 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:23,165 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:21:23,165 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:21:23,165 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:23,165 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:23,165 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:23,165 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:21:23,165 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:21:23,165 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:23,165 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:23,165 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:23,165 - INFO - Recover operation completed.
+2025-03-17 07:21:23,165 - INFO - Updated db_files after recovery.
+2025-03-17 07:21:30,430 - INFO - Link module to complete.
+2025-03-17 07:21:30,439 - INFO - Recover script initialized.
+2025-03-17 07:21:30,439 - INFO - Command line tool initialization.
+2025-03-17 07:21:43,309 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 07:21:43,309 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:21:43,309 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:21:43,309 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:21:43,309 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:43,309 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:43,310 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:43,310 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:43,310 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:43,310 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:43,310 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:43,310 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:43,310 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:43,310 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:43,310 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:43,310 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:43,310 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:43,310 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:43,310 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:43,310 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:43,310 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:43,310 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:43,310 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:21:43,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:21:43,311 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:43,311 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:43,311 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:43,311 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:21:43,311 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:21:43,311 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:21:43,311 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:21:43,311 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 0
+2025-03-17 07:21:43,311 - INFO - Recover operation completed.
+2025-03-17 07:21:43,311 - INFO - Updated db_files after recovery.
+2025-03-17 07:22:55,484 - INFO - Link module to complete.
+2025-03-17 07:22:55,501 - INFO - Recover script initialized.
+2025-03-17 07:22:55,501 - INFO - Command line tool initialization.
+2025-03-17 07:23:15,827 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 07:23:15,828 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:23:15,828 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:23:15,828 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:23:15,829 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:23:15,829 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:23:15,830 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 1195620245
+2025-03-17 07:23:15,830 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:23:15,830 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:23:15,830 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:23:15,830 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:23:15,830 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 1195620245
+2025-03-17 07:23:15,830 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:23:15,830 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:23:15,830 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:23:15,830 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:23:15,830 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 1195620245
+2025-03-17 07:23:15,830 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:23:15,830 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:23:15,830 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:23:15,830 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:23:15,830 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 1195620245
+2025-03-17 07:23:15,830 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:23:15,830 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:23:15,830 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:23:15,830 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:23:15,830 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 1195620245
+2025-03-17 07:23:15,831 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:23:15,831 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:23:15,831 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:23:15,831 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:23:15,831 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 1195620245
+2025-03-17 07:23:15,831 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:23:15,831 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:23:15,831 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:23:15,831 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:23:15,831 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 1195620245
+2025-03-17 07:23:15,831 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:23:15,831 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:23:15,831 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:23:15,831 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:23:15,831 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 1195620245
+2025-03-17 07:23:15,831 - INFO - Recover operation completed.
+2025-03-17 07:23:15,831 - INFO - Updated db_files after recovery.
+2025-03-17 07:26:21,781 - INFO - Link module to complete.
+2025-03-17 07:26:21,796 - INFO - Recover script initialized.
+2025-03-17 07:26:21,796 - INFO - Command line tool initialization.
+2025-03-17 07:26:35,318 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/sysaux01.dbf, skipping backup.
+2025-03-17 07:26:35,320 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-17 07:26:35,320 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-17 07:26:35,320 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-17 07:26:35,321 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:26:35,321 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:26:35,321 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 190
+2025-03-17 07:26:35,321 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-17 07:26:35,321 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-17 07:26:35,321 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:26:35,321 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:26:35,321 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 190
+2025-03-17 07:26:35,321 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-17 07:26:35,321 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-17 07:26:35,321 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:26:35,321 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:26:35,321 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 190
+2025-03-17 07:26:35,321 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-17 07:26:35,321 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-17 07:26:35,321 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:26:35,321 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:26:35,321 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 190
+2025-03-17 07:26:35,321 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: d2000000, Old Value: d2000000, New Value: d2000000
+2025-03-17 07:26:35,321 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-17 07:26:35,322 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:26:35,322 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:26:35,322 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 190
+2025-03-17 07:26:35,322 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: c9000000, Old Value: c9000000, New Value: c9000000
+2025-03-17 07:26:35,322 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-17 07:26:35,322 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:26:35,322 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:26:35,322 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 190
+2025-03-17 07:26:35,322 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-17 07:26:35,322 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-17 07:26:35,322 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:26:35,322 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:26:35,322 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 190
+2025-03-17 07:26:35,322 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-17 07:26:35,322 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-17 07:26:35,322 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-17 07:26:35,322 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-17 07:26:35,322 - INFO - File: /u01/app/oracle/oradata/dbm/users01.dbf, FNO: 4, fhcpc: 190
+2025-03-17 07:26:35,322 - INFO - Recover operation completed.
+2025-03-17 07:26:35,322 - INFO - Updated db_files after recovery.
+2025-03-18 22:46:24,417 - INFO - Link module to complete.
+2025-03-18 22:46:24,443 - INFO - Recover script initialized.
+2025-03-18 22:46:24,444 - INFO - Command line tool initialization.
+2025-03-18 22:46:44,325 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/system01.dbf, skipping backup.
+2025-03-18 22:46:44,326 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-18 22:46:44,326 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-18 22:46:44,326 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-18 22:46:44,327 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:46:44,327 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:46:44,327 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-18 22:46:44,327 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-18 22:46:44,327 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:46:44,327 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:46:44,327 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-18 22:46:44,327 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:46:44,328 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:46:44,328 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:46:44,328 - INFO - Checksum 0x1454 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:46:44,328 - INFO - Checksum 0xe450 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:46:44,328 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:46:44,328 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:46:44,328 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:46:44,328 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-18 22:46:44,328 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-18 22:46:44,329 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:46:44,329 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:46:44,329 - INFO - Recover operation completed.
+2025-03-18 22:46:44,329 - INFO - Updated db_files after recovery.
+2025-03-18 22:48:21,408 - INFO - Link module to complete.
+2025-03-18 22:48:21,437 - INFO - Recover script initialized.
+2025-03-18 22:48:21,437 - INFO - Command line tool initialization.
+2025-03-18 22:48:32,864 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/users01.dbf, skipping backup.
+2025-03-18 22:48:32,873 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-18 22:48:32,873 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-18 22:48:32,873 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-18 22:48:32,873 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:48:32,873 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:48:32,873 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-18 22:48:32,873 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:48:32,874 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:48:32,874 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:48:32,874 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:48:32,874 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:48:32,874 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:48:32,874 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:48:32,874 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:48:32,874 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-18 22:48:32,874 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-18 22:48:32,875 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:48:32,875 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:48:32,875 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-18 22:48:32,875 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-18 22:48:32,875 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-18 22:48:32,875 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-18 22:48:32,875 - INFO - Recover operation completed.
+2025-03-18 22:48:32,875 - INFO - Updated db_files after recovery.
+2025-03-18 22:48:41,169 - INFO - Link module to complete.
+2025-03-18 22:48:41,172 - INFO - Recover script initialized.
+2025-03-18 22:48:41,172 - INFO - Command line tool initialization.
+2025-03-19 06:24:17,677 - INFO - Link module to complete.
+2025-03-19 06:24:17,699 - INFO - Recover script initialized.
+2025-03-19 06:24:22,245 - INFO - Link module to complete.
+2025-03-19 06:24:22,263 - INFO - Recover script initialized.
+2025-03-19 06:24:22,264 - INFO - Command line tool initialization.
+2025-03-19 06:25:27,417 - INFO - Link module to complete.
+2025-03-19 06:25:27,434 - INFO - Recover script initialized.
+2025-03-19 06:25:27,434 - INFO - Command line tool initialization.
+2025-03-19 06:25:39,305 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/users01.dbf, skipping backup.
+2025-03-19 06:25:39,307 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-19 06:25:39,309 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-19 06:25:39,309 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-19 06:25:39,309 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:25:39,309 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:25:39,309 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:25:39,310 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:25:39,310 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:25:39,310 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:25:39,310 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:25:39,310 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:25:39,310 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-19 06:25:39,310 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:25:39,310 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:25:39,310 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-19 06:25:39,311 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-19 06:25:39,311 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:25:39,311 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:25:39,311 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-19 06:25:39,311 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-19 06:25:39,311 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:25:39,311 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:25:39,311 - INFO - Recover operation completed.
+2025-03-19 06:25:39,311 - INFO - Updated db_files after recovery.
+2025-03-19 06:34:38,494 - INFO - Link module to complete.
+2025-03-19 06:35:39,202 - INFO - Link module to complete.
+2025-03-19 06:35:39,227 - INFO - Recover script initialized.
+2025-03-19 06:35:39,227 - INFO - Command line tool initialization.
+2025-03-19 06:35:51,141 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/undotbs01.dbf, skipping backup.
+2025-03-19 06:35:51,144 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-19 06:35:51,144 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-19 06:35:51,144 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-19 06:35:51,144 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:35:51,145 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:35:51,145 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: abca1200, Old Value: abca1200, New Value: abca1200
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:35:51,145 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:35:51,145 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:35:51,145 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:35:51,145 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:35:51,145 - INFO - Checksum 0x144f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:35:51,145 - INFO - Checksum 0xe427 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:35:51,145 - INFO - Key: kcvfhccc, Offset: 0x2094, Old Value: be000000, New Value: bd000000
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:35:51,145 - INFO - Checksum 0x144c written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:35:51,145 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-19 06:35:51,145 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-19 06:35:51,146 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:35:51,146 - INFO - Checksum 0x144c written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:35:51,146 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 67060000, Old Value: 67060000, New Value: 67060000
+2025-03-19 06:35:51,146 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-19 06:35:51,146 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:35:51,146 - INFO - Checksum 0x144c written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:35:51,146 - INFO - Recover operation completed.
+2025-03-19 06:35:51,146 - INFO - Updated db_files after recovery.
+2025-03-19 06:44:45,608 - INFO - Link module to complete.
+2025-03-19 06:44:45,612 - INFO - Recover script initialized.
+2025-03-19 06:44:45,612 - INFO - Command line tool initialization.
+2025-03-19 06:45:02,507 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/undotbs01.dbf, skipping backup.
+2025-03-19 06:45:02,509 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-19 06:45:02,509 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-19 06:45:02,509 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:45:02,510 - INFO - Checksum 0xab6b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:45:02,510 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: 6c1c1300, Old Value: 9d1b1300, New Value: 6c1c1300
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:45:02,510 - INFO - Checksum 0xac9a written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:45:02,510 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:45:02,510 - INFO - Checksum 0xac9a written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:45:02,510 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:45:02,510 - INFO - Checksum 0xac9a written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:45:02,510 - INFO - Checksum 0xac8b written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:45:02,510 - INFO - Key: kcvfhccc, Offset: 0x2094, Old Value: dc000000, New Value: db000000
+2025-03-19 06:45:02,510 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-19 06:45:02,511 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:45:02,511 - INFO - Checksum 0xac9c written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:45:02,511 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-19 06:45:02,511 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-19 06:45:02,511 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:45:02,511 - INFO - Checksum 0xac9c written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:45:02,511 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 81070000, Old Value: 7f070000, New Value: 81070000
+2025-03-19 06:45:02,511 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-19 06:45:02,511 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:45:02,511 - INFO - Checksum 0xac62 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:45:02,511 - INFO - Recover operation completed.
+2025-03-19 06:45:02,511 - INFO - Updated db_files after recovery.
+2025-03-19 06:50:39,452 - INFO - Link module to complete.
+2025-03-19 06:50:39,458 - INFO - Recover script initialized.
+2025-03-19 06:50:39,458 - INFO - Command line tool initialization.
+2025-03-19 06:51:07,007 - INFO - Backup already exists for /u01/app/oracle/oradata/dbm/users01.dbf, skipping backup.
+2025-03-19 06:51:07,008 - INFO - Modifying /u01/app/oracle/oradata/dbm/users01.dbf...
+2025-03-19 06:51:07,008 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-19 06:51:07,008 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8330
+2025-03-19 06:51:07,008 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:51:07,008 - INFO - Checksum 0xd7af written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:51:07,008 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: 5b6b1300, Old Value: 8d6a1300, New Value: 5b6b1300
+2025-03-19 06:51:07,008 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8676
+2025-03-19 06:51:07,008 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:51:07,008 - INFO - Checksum 0xd679 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:51:07,008 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-19 06:51:07,008 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8308
+2025-03-19 06:51:07,008 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:51:07,008 - INFO - Checksum 0xd679 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:51:07,009 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8304
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:51:07,009 - INFO - Checksum 0xd679 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8332
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:51:07,009 - INFO - Checksum 0xd65f written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:51:07,009 - INFO - Key: kcvfhccc, Offset: 0x2094, Old Value: f8000000, New Value: f7000000
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8340
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:51:07,009 - INFO - Checksum 0xd675 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:51:07,009 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8352
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:51:07,009 - INFO - Checksum 0xd675 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:51:07,009 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 55080000, Old Value: 53080000, New Value: 55080000
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8232
+2025-03-19 06:51:07,009 - INFO - Successfully wrote to /u01/app/oracle/oradata/dbm/users01.dbf at offset 8208
+2025-03-19 06:51:07,009 - INFO - Checksum 0xd673 written to /u01/app/oracle/oradata/dbm/users01.dbf at offset 0x2010.
+2025-03-19 06:51:07,009 - INFO - Recover operation completed.
+2025-03-19 06:51:07,009 - INFO - Updated db_files after recovery.
+2025-03-19 07:46:17,002 - INFO - Link module to complete.
+2025-03-19 07:46:17,011 - INFO - Recover script initialized.
+2025-03-19 07:47:09,849 - INFO - Link module to complete.
+2025-03-19 07:47:09,853 - INFO - Recover script initialized.
+2025-03-19 07:47:09,853 - INFO - Command line tool initialization.
+2025-03-19 07:48:03,270 - INFO - Link module to complete.
+2025-03-19 07:48:03,276 - INFO - Recover script initialized.
+2025-03-19 07:48:03,277 - INFO - Command line tool initialization.
+2025-03-20 12:21:05,444 - INFO - Link module to complete.
+2025-03-20 12:21:05,451 - INFO - Recover script initialized.
+2025-03-20 12:21:05,452 - INFO - Command line tool initialization.
+2025-03-20 12:27:34,937 - INFO - Link module to complete.
+2025-03-20 12:27:34,939 - INFO - Recover script initialized.
+2025-03-20 12:27:34,939 - INFO - Command line tool initialization.
+2025-03-20 12:30:35,596 - INFO - Link module to complete.
+2025-03-20 12:30:35,598 - INFO - Recover script initialized.
+2025-03-20 12:30:35,599 - INFO - Command line tool initialization.
+2025-03-20 12:34:44,320 - INFO - Link module to complete.
+2025-03-20 12:34:44,322 - INFO - Recover script initialized.
+2025-03-20 12:34:44,323 - INFO - Command line tool initialization.
+2025-03-20 13:02:26,616 - INFO - Link module to complete.
+2025-03-20 13:02:26,620 - INFO - Recover script initialized.
+2025-03-20 13:02:26,621 - INFO - Command line tool initialization.
+2025-03-20 16:10:56,962 - INFO - Link module to complete.
+2025-03-20 16:10:56,965 - INFO - Recover script initialized.
+2025-03-20 16:10:56,965 - INFO - Command line tool initialization.
+2025-03-20 16:16:21,591 - INFO - Link module to complete.
+2025-03-20 16:16:21,594 - INFO - Recover script initialized.
+2025-03-20 16:16:21,594 - INFO - Command line tool initialization.
+2025-03-20 16:17:24,557 - INFO - Link module to complete.
+2025-03-20 16:17:24,559 - INFO - Recover script initialized.
+2025-03-20 16:17:24,560 - INFO - Command line tool initialization.
+2025-03-20 16:23:51,876 - INFO - Link module to complete.
+2025-03-20 16:23:51,879 - INFO - Recover script initialized.
+2025-03-20 16:23:51,879 - INFO - Command line tool initialization.
+2025-03-20 16:31:37,956 - INFO - Link module to complete.
+2025-03-20 16:31:37,961 - INFO - Recover script initialized.
+2025-03-20 16:31:37,962 - INFO - Command line tool initialization.
+2025-03-20 16:44:13,804 - INFO - Link module to complete.
+2025-03-20 16:44:13,807 - INFO - Recover script initialized.
+2025-03-20 16:44:13,808 - INFO - Command line tool initialization.
+2025-03-22 15:32:41,666 - INFO - Link module to complete.
+2025-03-22 15:32:41,676 - INFO - Recover script initialized.
+2025-03-22 15:32:41,707 - INFO - Command line tool initialization.
+2025-03-22 15:32:50,138 - DEBUG - Process 1240 is being debugged
+2025-03-22 15:33:32,627 - DEBUG - Process 1240 is being debugged
+2025-03-22 15:36:53,225 - INFO - Link module to complete.
+2025-03-22 15:36:53,229 - INFO - Recover script initialized.
+2025-03-22 15:36:53,257 - INFO - Command line tool initialization.
+2025-03-22 15:36:57,935 - DEBUG - Process 1240 is being debugged
+2025-03-22 15:49:01,790 - INFO - Link module to complete.
+2025-03-22 15:49:01,794 - INFO - Recover script initialized.
+2025-03-22 15:49:01,824 - INFO - Command line tool initialization.
+2025-03-22 15:59:46,968 - INFO - Link module to complete.
+2025-03-22 15:59:46,972 - INFO - Recover script initialized.
+2025-03-22 15:59:47,004 - INFO - Command line tool initialization.
+2025-03-22 16:09:45,892 - INFO - Link module to complete.
+2025-03-22 16:09:45,951 - INFO - Recover script initialized.
+2025-03-22 16:09:46,096 - INFO - Command line tool initialization.
+2025-03-22 16:12:01,844 - INFO - Link module to complete.
+2025-03-22 16:12:01,850 - INFO - Recover script initialized.
+2025-03-22 16:12:01,872 - INFO - Command line tool initialization.
+2025-03-22 16:12:23,088 - INFO - Link module to complete.
+2025-03-22 16:12:23,091 - INFO - Recover script initialized.
+2025-03-22 16:12:23,109 - INFO - Command line tool initialization.
+2025-03-22 16:25:39,843 - INFO - Link module to complete.
+2025-03-22 16:25:39,849 - INFO - Recover script initialized.
+2025-03-22 16:25:39,874 - INFO - Command line tool initialization.
+2025-03-22 16:28:56,130 - INFO - Link module to complete.
+2025-03-22 16:28:56,132 - INFO - Recover script initialized.
+2025-03-22 16:28:56,146 - INFO - Command line tool initialization.
+2025-03-22 16:33:27,514 - INFO - Link module to complete.
+2025-03-22 16:33:27,518 - INFO - Recover script initialized.
+2025-03-22 16:33:27,543 - INFO - Command line tool initialization.
+2025-03-22 16:33:55,099 - INFO - Link module to complete.
+2025-03-22 16:33:55,101 - INFO - Recover script initialized.
+2025-03-22 16:33:55,117 - INFO - Command line tool initialization.
+2025-03-22 22:32:32,577 - INFO - Link module to complete.
+2025-03-22 22:32:32,581 - INFO - Recover script initialized.
+2025-03-22 22:32:32,605 - INFO - Command line tool initialization.
+2025-03-23 01:03:30,613 - INFO - Link module to complete.
+2025-03-23 01:03:30,621 - INFO - Recover script initialized.
+2025-03-23 01:03:30,670 - INFO - Command line tool initialization.
+2025-03-23 01:04:47,570 - INFO - Backup created: initial_backups\SYSAUX01.DBF
+2025-03-23 01:04:47,575 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-23 01:04:47,575 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8330
+2025-03-23 01:04:47,577 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8208
+2025-03-23 01:04:47,577 - INFO - Checksum 0x4113 written to C:\APP\ORADATA\DBM\USERS01.DBF at offset 0x2010.
+2025-03-23 01:04:47,577 - INFO - Key: CKP_SCN, Offset: 0x21e4, System Value: 462f0910, Old Value: 462f0910, New Value: 462f0910
+2025-03-23 01:04:47,578 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8676
+2025-03-23 01:04:47,579 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8208
+2025-03-23 01:04:47,579 - INFO - Checksum 0x4113 written to C:\APP\ORADATA\DBM\USERS01.DBF at offset 0x2010.
+2025-03-23 01:04:47,579 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 64b00d00, Old Value: 64b00d00, New Value: 64b00d00
+2025-03-23 01:04:47,579 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8308
+2025-03-23 01:04:47,580 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8208
+2025-03-23 01:04:47,580 - INFO - Checksum 0x4113 written to C:\APP\ORADATA\DBM\USERS01.DBF at offset 0x2010.
+2025-03-23 01:04:47,580 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 1e763f47, Old Value: 1e763f47, New Value: 1e763f47
+2025-03-23 01:04:47,581 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8304
+2025-03-23 01:04:47,581 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8208
+2025-03-23 01:04:47,581 - INFO - Checksum 0x4113 written to C:\APP\ORADATA\DBM\USERS01.DBF at offset 0x2010.
+2025-03-23 01:04:47,583 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8332
+2025-03-23 01:04:47,583 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8208
+2025-03-23 01:04:47,583 - INFO - Checksum 0x4114 written to C:\APP\ORADATA\DBM\USERS01.DBF at offset 0x2010.
+2025-03-23 01:04:47,584 - INFO - Key: kcvfhccc, Offset: 0x2094, Old Value: f3010000, New Value: f2010000
+2025-03-23 01:04:47,584 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8340
+2025-03-23 01:04:47,585 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8208
+2025-03-23 01:04:47,585 - INFO - Checksum 0x4115 written to C:\APP\ORADATA\DBM\USERS01.DBF at offset 0x2010.
+2025-03-23 01:04:47,585 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-23 01:04:47,586 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8352
+2025-03-23 01:04:47,586 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8208
+2025-03-23 01:04:47,586 - INFO - Checksum 0x4115 written to C:\APP\ORADATA\DBM\USERS01.DBF at offset 0x2010.
+2025-03-23 01:04:47,587 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 70090000, Old Value: 70090000, New Value: 70090000
+2025-03-23 01:04:47,587 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8232
+2025-03-23 01:04:47,588 - INFO - Successfully wrote to C:\APP\ORADATA\DBM\USERS01.DBF at offset 8208
+2025-03-23 01:04:47,588 - INFO - Checksum 0x4115 written to C:\APP\ORADATA\DBM\USERS01.DBF at offset 0x2010.
+2025-03-23 01:04:47,588 - INFO - Recover operation completed.
+2025-03-23 01:04:47,596 - INFO - Updated db_files after recovery.
+2025-03-24 20:31:52,915 - INFO - Link module to complete.
+2025-03-24 20:31:52,926 - INFO - Recover script initialized.
+2025-03-24 20:31:52,955 - INFO - Command line tool initialization.
+2025-03-24 20:32:19,815 - INFO - Block 140 is not corrupted.
+2025-03-25 22:20:02,123 - INFO - Link module to complete.
+2025-03-25 22:20:02,129 - INFO - Recover script initialized.
+2025-03-25 22:20:02,183 - INFO - Command line tool initialization.
+2025-03-25 22:39:45,647 - INFO - Link module to complete.
+2025-03-25 22:39:45,653 - INFO - Recover script initialized.
+2025-03-25 22:40:23,362 - INFO - Link module to complete.
+2025-03-25 22:40:23,364 - INFO - Recover script initialized.
+2025-03-25 22:40:23,396 - INFO - Command line tool initialization.
+2025-03-25 22:49:41,332 - INFO - Link module to complete.
+2025-03-25 22:49:41,340 - INFO - Recover script initialized.
+2025-03-25 22:49:41,374 - INFO - Command line tool initialization.
+2025-03-25 22:52:38,793 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-25 22:52:38,793 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8330
+2025-03-25 22:52:38,794 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8208
+2025-03-25 22:52:38,794 - INFO - Checksum 0x4115 written to c:\users\56592\desktop\users01.dbf at offset 0x2010.
+2025-03-25 22:52:38,794 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-25 22:52:38,794 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8680
+2025-03-25 22:52:38,795 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8208
+2025-03-25 22:52:38,795 - INFO - Checksum 0x4115 written to c:\users\56592\desktop\users01.dbf at offset 0x2010.
+2025-03-25 22:52:38,795 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 64b00d00, Old Value: 64b00d00, New Value: 64b00d00
+2025-03-25 22:52:38,795 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8308
+2025-03-25 22:52:38,795 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8208
+2025-03-25 22:52:38,795 - INFO - Checksum 0x4115 written to c:\users\56592\desktop\users01.dbf at offset 0x2010.
+2025-03-25 22:52:38,796 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 1e763f47, Old Value: 1e763f47, New Value: 1e763f47
+2025-03-25 22:52:38,796 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8304
+2025-03-25 22:52:38,796 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8208
+2025-03-25 22:52:38,796 - INFO - Checksum 0x4115 written to c:\users\56592\desktop\users01.dbf at offset 0x2010.
+2025-03-25 22:52:38,796 - ERROR - Failed to write c:\users\56592\desktop\users01.dbf at offset 8332: a bytes-like object is required, not 'NoneType'
+2025-03-25 22:52:38,797 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8208
+2025-03-25 22:52:38,797 - INFO - Checksum 0x4115 written to c:\users\56592\desktop\users01.dbf at offset 0x2010.
+2025-03-25 22:52:38,797 - INFO - Key: frmt_kcbh, Offset: 0x2001, System Value: a2, Old Value: a2, New Value: a2
+2025-03-25 22:52:38,797 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8193
+2025-03-25 22:52:38,797 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8208
+2025-03-25 22:52:38,797 - INFO - Checksum 0x4115 written to c:\users\56592\desktop\users01.dbf at offset 0x2010.
+2025-03-25 22:52:38,797 - ERROR - Invalid value for kcvfhccc: None
+2025-03-25 22:52:38,798 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-25 22:52:38,798 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8352
+2025-03-25 22:52:38,798 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8208
+2025-03-25 22:52:38,798 - INFO - Checksum 0x4115 written to c:\users\56592\desktop\users01.dbf at offset 0x2010.
+2025-03-25 22:52:38,798 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: 70090000, Old Value: 70090000, New Value: 70090000
+2025-03-25 22:52:38,799 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8232
+2025-03-25 22:52:38,799 - INFO - Successfully wrote to c:\users\56592\desktop\users01.dbf at offset 8208
+2025-03-25 22:52:38,799 - INFO - Checksum 0x4115 written to c:\users\56592\desktop\users01.dbf at offset 0x2010.
+2025-03-25 22:52:38,799 - INFO - Recover operation completed.
+2025-03-25 22:52:38,799 - INFO - Updated db_files after recovery.
+2025-03-25 23:03:19,467 - INFO - Link module to complete.
+2025-03-25 23:03:23,634 - INFO - Link module to complete.
+2025-03-25 23:03:43,897 - INFO - Link module to complete.
+2025-03-25 23:04:21,553 - INFO - Link module to complete.
+2025-03-25 23:04:21,561 - INFO - Recover script initialized.
+2025-03-25 23:04:21,590 - INFO - Command line tool initialization.
+2025-03-25 23:07:26,657 - INFO - Link module to complete.
+2025-03-25 23:07:26,660 - INFO - Recover script initialized.
+2025-03-25 23:07:26,686 - INFO - Command line tool initialization.
+2025-03-25 23:10:04,889 - INFO - Link module to complete.
+2025-03-25 23:10:04,896 - INFO - Recover script initialized.
+2025-03-25 23:10:04,926 - INFO - Command line tool initialization.
+2025-03-25 23:15:49,729 - INFO - Link module to complete.
+2025-03-25 23:15:49,731 - INFO - Recover script initialized.
+2025-03-25 23:15:49,759 - INFO - Command line tool initialization.
+2025-03-25 23:19:55,749 - INFO - Link module to complete.
+2025-03-25 23:19:55,751 - INFO - Recover script initialized.
+2025-03-25 23:19:55,772 - INFO - Command line tool initialization.
+2025-03-25 23:23:39,058 - INFO - Link module to complete.
+2025-03-25 23:23:39,060 - INFO - Recover script initialized.
+2025-03-25 23:23:39,080 - INFO - Command line tool initialization.
+2025-03-25 23:25:54,019 - INFO - Link module to complete.
+2025-03-25 23:25:54,021 - INFO - Recover script initialized.
+2025-03-25 23:25:54,044 - INFO - Command line tool initialization.
+2025-03-25 23:27:56,006 - INFO - Link module to complete.
+2025-03-25 23:27:56,007 - INFO - Recover script initialized.
+2025-03-25 23:27:56,029 - INFO - Command line tool initialization.
+2025-03-25 23:30:02,816 - INFO - Link module to complete.
+2025-03-25 23:30:02,818 - INFO - Recover script initialized.
+2025-03-25 23:30:02,844 - INFO - Command line tool initialization.
+2025-03-25 23:31:49,277 - INFO - Link module to complete.
+2025-03-25 23:31:49,279 - INFO - Recover script initialized.
+2025-03-25 23:31:49,302 - INFO - Command line tool initialization.
+2025-03-25 23:32:45,714 - INFO - Link module to complete.
+2025-03-25 23:32:45,716 - INFO - Recover script initialized.
+2025-03-25 23:32:45,736 - INFO - Command line tool initialization.
+2025-03-25 23:33:26,598 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-25 23:33:26,599 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8330
+2025-03-25 23:33:26,607 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:33:26,607 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:33:26,607 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-25 23:33:26,608 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8680
+2025-03-25 23:33:26,608 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:33:26,608 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:33:26,609 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-25 23:33:26,609 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8308
+2025-03-25 23:33:26,609 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:33:26,609 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:33:26,609 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-25 23:33:26,610 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8304
+2025-03-25 23:33:26,610 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:33:26,610 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:33:26,610 - ERROR - Failed to write c:\users\56592\downloads\users01.dbf at offset 8332: a bytes-like object is required, not 'NoneType'
+2025-03-25 23:33:26,611 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:33:26,611 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:33:26,611 - INFO - Key: frmt_kcbh, Offset: 0x2001, System Value: a2, Old Value: a2, New Value: a2
+2025-03-25 23:33:26,611 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8193
+2025-03-25 23:33:26,611 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:33:26,611 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:33:26,611 - ERROR - Invalid value for kcvfhccc: None
+2025-03-25 23:33:26,611 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-25 23:33:26,611 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8352
+2025-03-25 23:33:26,612 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:33:26,612 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:33:26,612 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: dd0a0000, Old Value: dd0a0000, New Value: dd0a0000
+2025-03-25 23:33:26,613 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8232
+2025-03-25 23:33:26,613 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:33:26,613 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:33:26,613 - INFO - Recover operation completed.
+2025-03-25 23:33:26,614 - INFO - Updated db_files after recovery.
+2025-03-25 23:39:56,430 - INFO - Link module to complete.
+2025-03-25 23:39:56,436 - INFO - Recover script initialized.
+2025-03-25 23:39:56,460 - INFO - Command line tool initialization.
+2025-03-25 23:40:41,166 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-25 23:40:41,166 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8330
+2025-03-25 23:40:41,167 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:40:41,167 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:40:41,167 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-25 23:40:41,167 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8680
+2025-03-25 23:40:41,168 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:40:41,168 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:40:41,168 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-25 23:40:41,169 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8308
+2025-03-25 23:40:41,169 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:40:41,169 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:40:41,169 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-25 23:40:41,169 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8304
+2025-03-25 23:40:41,170 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:40:41,170 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:40:41,170 - ERROR - Failed to write c:\users\56592\downloads\users01.dbf at offset 8332: a bytes-like object is required, not 'NoneType'
+2025-03-25 23:40:41,170 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:40:41,170 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:40:41,171 - INFO - Key: frmt_kcbh, Offset: 0x2001, System Value: a2, Old Value: a2, New Value: a2
+2025-03-25 23:40:41,171 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8193
+2025-03-25 23:40:41,171 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:40:41,171 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:40:41,171 - ERROR - Invalid value for kcvfhccc: None
+2025-03-25 23:40:41,171 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-25 23:40:41,172 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8352
+2025-03-25 23:40:41,172 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:40:41,172 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:40:41,172 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: dd0a0000, Old Value: dd0a0000, New Value: dd0a0000
+2025-03-25 23:40:41,172 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8232
+2025-03-25 23:40:41,173 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:40:41,173 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:40:41,173 - INFO - Recover operation completed.
+2025-03-25 23:40:41,173 - INFO - Updated db_files after recovery.
+2025-03-25 23:52:27,135 - INFO - Link module to complete.
+2025-03-25 23:52:27,142 - INFO - Recover script initialized.
+2025-03-25 23:52:27,169 - INFO - Command line tool initialization.
+2025-03-25 23:53:32,898 - INFO - Backup already exists for c:\users\56592\downloads\users01.dbf, skipping backup.
+2025-03-25 23:53:32,898 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-25 23:53:32,899 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8330
+2025-03-25 23:53:32,899 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:53:32,899 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:53:32,900 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-25 23:53:32,900 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8680
+2025-03-25 23:53:32,900 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:53:32,900 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:53:32,900 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-25 23:53:32,901 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8308
+2025-03-25 23:53:32,901 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:53:32,901 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:53:32,901 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-25 23:53:32,901 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8304
+2025-03-25 23:53:32,901 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:53:32,901 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:53:32,901 - ERROR - Failed to write c:\users\56592\downloads\users01.dbf at offset 8332: a bytes-like object is required, not 'NoneType'
+2025-03-25 23:53:32,902 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:53:32,902 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:53:32,902 - INFO - Key: frmt_kcbh, Offset: 0x2001, System Value: a2, Old Value: a2, New Value: a2
+2025-03-25 23:53:32,902 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8193
+2025-03-25 23:53:32,903 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:53:32,903 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:53:32,903 - ERROR - Invalid value for kcvfhccc: None
+2025-03-25 23:53:32,903 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-25 23:53:32,903 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8352
+2025-03-25 23:53:32,904 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:53:32,904 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:53:32,904 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: dd0a0000, Old Value: dd0a0000, New Value: dd0a0000
+2025-03-25 23:53:32,904 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8232
+2025-03-25 23:53:32,905 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-25 23:53:32,905 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-25 23:53:32,905 - INFO - Recover operation completed.
+2025-03-25 23:53:32,906 - INFO - Updated db_files after recovery.
+2025-03-25 23:55:29,761 - INFO - Link module to complete.
+2025-03-25 23:55:29,778 - INFO - Recover script initialized.
+2025-03-25 23:55:29,887 - INFO - Command line tool initialization.
+2025-03-25 23:56:32,473 - INFO - Backup already exists for c:\users\56592\downloads\users01.dbf, skipping backup.
+2025-03-25 23:57:51,083 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-25 23:58:46,988 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8330
+2025-03-26 00:01:11,293 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:01:17,042 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:01:56,155 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-26 00:02:02,158 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8680
+2025-03-26 00:02:26,846 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:02:29,250 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:02:44,495 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-26 00:02:49,347 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8308
+2025-03-26 00:03:11,762 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:03:13,917 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:03:33,275 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-26 00:03:37,589 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8304
+2025-03-26 00:03:55,530 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:03:56,590 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:05:14,640 - ERROR - Failed to write c:\users\56592\downloads\users01.dbf at offset 8332: a bytes-like object is required, not 'NoneType'
+2025-03-26 00:10:11,081 - INFO - Link module to complete.
+2025-03-26 00:10:11,086 - INFO - Recover script initialized.
+2025-03-26 00:10:11,111 - INFO - Command line tool initialization.
+2025-03-26 00:10:17,334 - INFO - Link module to complete.
+2025-03-26 00:10:17,341 - INFO - Recover script initialized.
+2025-03-26 00:10:17,364 - INFO - Command line tool initialization.
+2025-03-26 00:10:58,916 - INFO - Backup already exists for c:\users\56592\downloads\users01.dbf, skipping backup.
+2025-03-26 00:10:58,916 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 0000
+2025-03-26 00:10:58,916 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8330
+2025-03-26 00:10:58,916 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:10:58,917 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:10:58,917 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-26 00:10:58,917 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8680
+2025-03-26 00:10:58,917 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:10:58,917 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:10:58,918 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-26 00:10:58,918 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8308
+2025-03-26 00:10:58,919 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:10:58,919 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:10:58,919 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-26 00:10:58,919 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8304
+2025-03-26 00:10:58,919 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:10:58,920 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:10:58,920 - ERROR - Failed to write c:\users\56592\downloads\users01.dbf at offset 8332: a bytes-like object is required, not 'NoneType'
+2025-03-26 00:10:58,920 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:10:58,920 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:10:58,920 - INFO - Key: frmt_kcbh, Offset: 0x2001, System Value: a2, Old Value: a2, New Value: a2
+2025-03-26 00:10:58,920 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8193
+2025-03-26 00:10:58,921 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:10:58,921 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:10:58,921 - ERROR - Invalid value for kcvfhccc: None
+2025-03-26 00:10:58,921 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-26 00:10:58,921 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8352
+2025-03-26 00:10:58,922 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:10:58,922 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:10:58,922 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: dd0a0000, Old Value: dd0a0000, New Value: dd0a0000
+2025-03-26 00:10:58,922 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8232
+2025-03-26 00:10:58,922 - INFO - Successfully wrote to c:\users\56592\downloads\users01.dbf at offset 8208
+2025-03-26 00:10:58,922 - INFO - Checksum 0x799a written to c:\users\56592\downloads\users01.dbf at offset 0x2010.
+2025-03-26 00:10:58,922 - INFO - Recover operation completed.
+2025-03-26 00:10:58,923 - INFO - Updated db_files after recovery.
+2025-03-26 00:13:09,640 - INFO - Link module to complete.
+2025-03-26 00:13:09,646 - INFO - Recover script initialized.
+2025-03-26 00:13:09,667 - INFO - Command line tool initialization.
+2025-03-26 00:13:49,449 - INFO - Backup already exists for c:\users\56592\downloads\system01.dbf, skipping backup.
+2025-03-26 00:13:49,449 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 2000
+2025-03-26 00:13:49,449 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8330
+2025-03-26 00:13:49,449 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:13:49,449 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:13:49,450 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-26 00:13:49,450 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8680
+2025-03-26 00:13:49,450 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:13:49,450 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:13:49,450 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-26 00:13:49,451 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8308
+2025-03-26 00:13:49,451 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:13:49,451 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:13:49,451 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-26 00:13:49,451 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8304
+2025-03-26 00:13:49,451 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:13:49,451 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:13:49,452 - ERROR - Failed to write c:\users\56592\downloads\system01.dbf at offset 8332: a bytes-like object is required, not 'NoneType'
+2025-03-26 00:13:49,452 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:13:49,452 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:13:49,453 - INFO - Key: frmt_kcbh, Offset: 0x2001, System Value: a2, Old Value: a2, New Value: a2
+2025-03-26 00:13:49,453 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8193
+2025-03-26 00:13:49,453 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:13:49,453 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:13:49,453 - ERROR - Invalid value for kcvfhccc: None
+2025-03-26 00:13:49,453 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-26 00:13:49,453 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8352
+2025-03-26 00:13:49,454 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:13:49,454 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:13:49,454 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: dd0a0000, Old Value: dd0a0000, New Value: dd0a0000
+2025-03-26 00:13:49,454 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8232
+2025-03-26 00:13:49,454 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:13:49,454 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:13:49,454 - INFO - Recover operation completed.
+2025-03-26 00:13:49,455 - INFO - Updated db_files after recovery.
+2025-03-26 00:14:25,340 - INFO - Link module to complete.
+2025-03-26 00:14:25,346 - INFO - Recover script initialized.
+2025-03-26 00:14:25,366 - INFO - Command line tool initialization.
+2025-03-26 00:15:07,368 - INFO - Backup already exists for c:\users\56592\downloads\system01.dbf, skipping backup.
+2025-03-26 00:15:07,368 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 2000
+2025-03-26 00:15:07,368 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8330
+2025-03-26 00:15:07,369 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:15:07,369 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:15:07,369 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-26 00:15:07,369 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8680
+2025-03-26 00:15:07,370 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:15:07,370 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:15:07,370 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-26 00:15:07,370 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8308
+2025-03-26 00:15:07,371 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:15:07,371 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:15:07,371 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-26 00:15:07,371 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8304
+2025-03-26 00:15:07,371 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:15:07,372 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:15:07,372 - ERROR - Failed to write c:\users\56592\downloads\system01.dbf at offset 8332: a bytes-like object is required, not 'NoneType'
+2025-03-26 00:15:07,372 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:15:07,372 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:15:07,372 - INFO - Key: frmt_kcbh, Offset: 0x2001, System Value: a2, Old Value: a2, New Value: a2
+2025-03-26 00:15:07,372 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8193
+2025-03-26 00:15:07,373 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:15:07,373 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:15:07,373 - ERROR - Invalid value for kcvfhccc: None
+2025-03-26 00:15:07,373 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-26 00:15:07,373 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8352
+2025-03-26 00:15:07,374 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:15:07,374 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:15:07,374 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: dd0a0000, Old Value: dd0a0000, New Value: dd0a0000
+2025-03-26 00:15:07,374 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8232
+2025-03-26 00:15:07,374 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:15:07,374 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:15:07,374 - INFO - Recover operation completed.
+2025-03-26 00:15:07,375 - INFO - Updated db_files after recovery.
+2025-03-26 00:21:24,049 - INFO - Link module to complete.
+2025-03-26 00:21:24,055 - INFO - Recover script initialized.
+2025-03-26 00:21:24,076 - INFO - Command line tool initialization.
+2025-03-26 00:22:08,327 - INFO - Backup already exists for c:\users\56592\downloads\system01.dbf, skipping backup.
+2025-03-26 00:22:08,327 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 2000
+2025-03-26 00:22:08,328 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8330
+2025-03-26 00:22:08,329 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:22:08,329 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:22:08,329 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-26 00:22:08,329 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8680
+2025-03-26 00:22:08,329 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:22:08,330 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:22:08,330 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-26 00:22:08,330 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8308
+2025-03-26 00:22:08,330 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:22:08,331 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:22:08,331 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-26 00:22:08,331 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8304
+2025-03-26 00:22:08,331 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:22:08,331 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:34:01,588 - INFO - Link module to complete.
+2025-03-26 00:35:10,221 - INFO - Link module to complete.
+2025-03-26 00:35:37,201 - INFO - Link module to complete.
+2025-03-26 00:35:37,206 - INFO - Recover script initialized.
+2025-03-26 00:35:37,227 - INFO - Command line tool initialization.
+2025-03-26 00:36:09,626 - INFO - Backup already exists for c:\users\56592\downloads\system01.dbf, skipping backup.
+2025-03-26 00:36:09,626 - INFO - Key: FUZZY, Offset: 0x208a, Old Value: (not applicable), New Value: 2000
+2025-03-26 00:36:09,626 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8330
+2025-03-26 00:36:09,627 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,628 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,628 - INFO - Key: CKP_SCN_BAS, Offset: 0x21e8, System Value: 01000000, Old Value: 01000000, New Value: 01000000
+2025-03-26 00:36:09,628 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8680
+2025-03-26 00:36:09,628 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,628 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,629 - INFO - Key: R_SCN, Offset: 0x2074, System Value: 1d421000, Old Value: 1d421000, New Value: 1d421000
+2025-03-26 00:36:09,629 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8308
+2025-03-26 00:36:09,629 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,629 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,629 - INFO - Key: R_C_SCN, Offset: 0x2070, System Value: 95b74347, Old Value: 95b74347, New Value: 95b74347
+2025-03-26 00:36:09,630 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8304
+2025-03-26 00:36:09,630 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,630 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,630 - INFO - Key: kcvfhcpc, Offset: 0x208c, System Value: 35010000, Old Value: 35010000, New Value: 35010000
+2025-03-26 00:36:09,631 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8332
+2025-03-26 00:36:09,631 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,631 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,631 - INFO - Key: frmt_kcbh, Offset: 0x2001, System Value: a2, Old Value: a2, New Value: a2
+2025-03-26 00:36:09,631 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8193
+2025-03-26 00:36:09,632 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,632 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,632 - INFO - Key: kcvfhccc, Offset: 0x2094, System Value: 34010000, Old Value: 34010000, New Value: 34010000
+2025-03-26 00:36:09,632 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8340
+2025-03-26 00:36:09,633 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,633 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,633 - INFO - Key: kcvcptim, Offset: 0x20a0, System Value: 00000000, Old Value: 00000000, New Value: 00000000
+2025-03-26 00:36:09,633 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8352
+2025-03-26 00:36:09,633 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,633 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,633 - INFO - Key: kccfhcsq, Offset: 0x2028, System Value: dd0a0000, Old Value: dd0a0000, New Value: dd0a0000
+2025-03-26 00:36:09,633 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8232
+2025-03-26 00:36:09,634 - INFO - Successfully wrote to c:\users\56592\downloads\system01.dbf at offset 8208
+2025-03-26 00:36:09,634 - INFO - Checksum 0x3447 written to c:\users\56592\downloads\system01.dbf at offset 0x2010.
+2025-03-26 00:36:09,634 - INFO - Recover operation completed.
+2025-03-26 00:36:09,635 - INFO - Updated db_files after recovery.
+2025-03-26 00:42:14,491 - INFO - Link module to complete.
+2025-03-26 00:42:14,496 - INFO - Recover script initialized.
+2025-03-26 00:42:14,515 - INFO - Command line tool initialization.
