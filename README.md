@@ -1,5 +1,7 @@
 Oracle Recover Command Line Tool (OCL)
 
+Please make sure that all data files and control files are in system files. ASM storage is not supported for the time being.
+
 It has only been tested on Windows and Linux in 11.2.0.4 and includes the following features:
 
 ![image](https://github.com/user-attachments/assets/00d684ef-bee6-4e08-9b5e-1899af0c4484)
