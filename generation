@@ -1,1 +1,0 @@
-pyinstaller -F main.py -i D:\ocl-py\dist\ocl.ico --name=OCL.exe --upx-dir=D:\upx-5.0.0-win64 --clean
