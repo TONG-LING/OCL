@@ -5,8 +5,6 @@ It has only been tested on Windows and Linux in 11.2.0.4 and includes the follow
 ![image](https://github.com/user-attachments/assets/00d684ef-bee6-4e08-9b5e-1899af0c4484)
 
 
-2025.3.10:
-
 1. When the software is started, the 'scan' command is automatically executed, and the database version number and byte order (storage) are output.
 <img width="684" alt="2cde2dd6edfbfcae71d421c55d011a6" src="https://github.com/user-attachments/assets/e63f186f-0b13-4b14-9ae7-d552ee74bbe8" />
 
