@@ -44,4 +44,4 @@ ORA-01113: file x needs media recovery
 
 
 If interested in database technology can add contacts to share knowledge！！！
-(wx:wufachuji666 qq:565929593 tel:+8618883846732)
+(wx:wufachuji666/qq:565929593)
