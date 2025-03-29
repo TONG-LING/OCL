@@ -1,47 +1,95 @@
-Oracle Recover Command Line Tool (OCL)
+Oracle Recovery Command Line Tool (OCL)
 
-Please make sure that all data files and control files are in system files. ASM storage is not supported for the time being.
+```bash
+OCL >  help
+```
 
-It has only been tested on Windows and Linux in 11.2.0.4 and includes the following features:
+![image](https://github.com/user-attachments/assets/28a5ae3d-354c-475a-a44a-a9f6fae18ef5)
 
-![image](https://github.com/user-attachments/assets/00d684ef-bee6-4e08-9b5e-1899af0c4484)
+OCL Tool Banner
 
+📌 Overview
+OCL is a professional command-line tool for Oracle database recovery, supporting both Windows and Linux platforms (tested on Oracle 11.2.0.4).
 
-1. When the software is started, the 'scan' command is automatically executed, and the database version number and byte order (storage) are output.
-<img width="684" alt="2cde2dd6edfbfcae71d421c55d011a6" src="https://github.com/user-attachments/assets/e63f186f-0b13-4b14-9ae7-d552ee74bbe8" />
+⚠️ Important Notes:
 
-
-3. Then use the 'link' function to link the database control file and system.dbf file, so as to obtain the data file path, corresponding scn number and resetlog scn and other information.
-<img width="529" alt="49a78aa9a4db3db17bb93dd80e43e6f" src="https://github.com/user-attachments/assets/45255e78-c209-4255-9af8-59bb15a440af" />
-
-
-4. The 'link' function also provides a separate link in case the data file is incomplete, such as link user01.dbf.
-
-![image](https://github.com/user-attachments/assets/4c7719be-4dfb-4ac5-8649-fbac26326cd4)
-
-5.Use the 'info' command to view the current database information in real time
-
-6. Use the 'recover datafile [fno]' command to recover the header block of the datafile (need to specify the corresponding reference file, because the modified content is extracted from the healthy datafile), for example:
-
-ORA-01190: control file or data file x is from before the last RESETLOGS
-
-ORA-01113: file x needs media recovery
-
-...
-
-<img width="1002" alt="13aa51475de7295923629eb6fd3b1c4" src="https://github.com/user-attachments/assets/66192480-76c4-4183-b2d4-fdc40233864f" />
+All datafiles and control files must reside in system files
+ASM storage is not currently supported
+🛠 Key Features
+🔍 1. Automatic Database Scan
+![image](https://github.com/user-attachments/assets/b1abc435-0221-452a-a554-addb51786540)
 
 
 
-7.The recover command also provides the function of recovering bad blocks by using 'recover block 4,1' (file no. 4, block No. 1), such as block check value errors:
+Automatically detects database version
+Displays byte order (endian) information
+🔗 2. Database Linking
 
-![image](https://github.com/user-attachments/assets/1254bf9d-7310-4985-b582-5277ea1136f5)
+```bash
+OCL >  link
+```
+![image](https://github.com/user-attachments/assets/bae5c0c8-b75d-4972-8c68-4579eca17708)
+
+Connects control files with system.dbf
+Retrieves:
+Datafile paths
+SCN numbers
+Resetlog SCN information...
+
+Partial Link Support:
+
+![image](https://github.com/user-attachments/assets/4decabf4-d424-4684-ac82-90e8e584fe68)
 
 
-8. Use the 'pscn' function (Log in as an administrator) to push the scn number in the database memory, such as ora-600[2662].
+ℹ️ 3. Real-time Database Information
 
-<img width="1079" alt="8cb32cd284b49715fee26248938ace0" src="https://github.com/user-attachments/assets/29792106-8696-49dc-ab35-81c62fbed3b4" />
+```bash
+OCL >  info
+```
+
+![image](https://github.com/user-attachments/assets/a3dc9668-c80b-41df-b235-1ab9535dad7d)
 
 
-If interested in database technology can add contacts to share knowledge！！！
-(wx:wufachuji666/qq:565929593)
+🩹 4. Datafile Recovery
+
+```bash
+OCL >  recover datafile [fno]
+```
+
+![image](https://github.com/user-attachments/assets/aa22eba9-b193-4a49-91b4-534607569246)
+
+
+Repairs header blocks using reference files
+Resolves:
+ORA-01190 (control file issues)
+ORA-01113 (media recovery required)
+🧱 5. Block-level Recovery:  recover block 4,1
+
+```bash
+OCL >  recover block 4,1
+```
+
+![image](https://github.com/user-attachments/assets/a83169f4-ea1e-49d4-8587-7aea86f86a9c)
+
+
+
+Repairs corrupted blocks
+Fixes checksum errors
+⏫ 6. SCN Management (Admin Only): 
+
+```bash
+OCL >  pscn
+```
+
+![image](https://github.com/user-attachments/assets/c986ac81-ac3e-45b4-869b-d77e4db946c2)
+Resolves ORA-600[2662], errors
+Updates SCN in database memory (oradebug)
+
+
+📞 Contact
+For database technology discussions and knowledge sharing:
+
+Platform	ID
+WeChat	wufachuji666
+QQ	565929593
+💡 All screenshots show actual recovery scenarios from production environments
