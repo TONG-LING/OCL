@@ -77,6 +77,8 @@ OCL >  recover block 4,1
 
 Repairs corrupted blocks
 Fixes checksum errors
+
+
 ⏫ 6. SCN Management (Admin Only): 
 
 ```bash
