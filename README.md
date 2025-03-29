@@ -63,6 +63,8 @@ Repairs header blocks using reference files
 Resolves:
 ORA-01190 (control file issues)
 ORA-01113 (media recovery required)
+
+
 🧱 5. Block-level Recovery:  recover block 4,1
 
 ```bash
