@@ -1,5 +1,18 @@
 Oracle Recovery Command Line Tool (OCL)
 
+Update Instructions
+-2025-4-20
+1.The scan function has been removed. Now, the file path is identified by adding the dbinfo.txt file
+The file format is as follows:
+C:\Users\xx\Desktop\USERS01.DBF12121212
+C:\Users\xx\Desktop\USERS02.DBF12121212
+C:\Users\xx\Desktop\USERS03.DBF12121212
+C:\Users\xx\Desktop\USERS04.DBF12121212
+...
+
+
+
+
 📌 Overview
 
 OCL is a professional command-line tool for Oracle database recovery, supporting both Windows and Linux platforms (tested on Oracle 11.2.0.4).
